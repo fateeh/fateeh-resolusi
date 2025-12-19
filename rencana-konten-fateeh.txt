@@ -1,5 +1,7 @@
 Rencana Konten fateeh
 a. Video Javascript
+    - ES6
+    - Framework Javascript
 b. Video PHP Framework
 c. Video Interview
 d. Video Vlog
