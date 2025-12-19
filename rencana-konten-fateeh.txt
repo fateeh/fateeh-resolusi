@@ -3,6 +3,7 @@ a. Video Javascript
     - ES6
     - Framework Javascript
         > Vue
+        > React
 b. Video Strktur Data Dasar
 c. Video PHP Framework
     > Laravel
