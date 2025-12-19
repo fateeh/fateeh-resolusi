@@ -4,7 +4,8 @@ a. Video Javascript
     - Framework Javascript
         > Vue
         > React
-b. Video Strktur Data Dasar
+        > Angular
+b. Video Struktur Data Dasar
 c. Video PHP Framework
     > Laravel
 d. Video Interview
