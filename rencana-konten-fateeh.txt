@@ -2,7 +2,9 @@ Rencana Konten fateeh
 a. Video Javascript
     - ES6
     - Framework Javascript
-b. Video Strktur Data Dasar
+        > Angular
+        > React
 c. Video PHP Framework
+   - Laravel
 d. Video Interview
 e. Video Vlog
