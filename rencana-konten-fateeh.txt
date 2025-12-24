@@ -6,6 +6,10 @@ a. Video Javascript
         > React
         > Angular
 b. Video Struktur Data Dasar
+##start tambahan dari marilla##
+    - pengantar mysql
+    - syntaks mysql
+##end tambahan dari marilla##
 c. Video PHP Framework
     > Laravel
 d. Video Interview
