@@ -6,6 +6,8 @@ a. Video Javascript
         > React
         > Angular
 b. Video Struktur Data Dasar
+    - pengantar mysql
+    - syntaks mysql
 c. Video PHP Framework
     > Laravel
 d. Video Interview
